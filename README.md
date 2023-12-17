@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItzStormizn
 - 👀 I’m interested in ... coding minecraft plugins, designing web pages, playing games
 - 🌱 I’m currently learning ... JavaScript and TypeScript
-- 💞️ I’m looking to collaborate on ... nothing as now now. 
+- 💞️ I’m looking to collaborate on ... nothing as now. 
 - 📫 How to reach me ... My discord [stormizn]
 
 <!---
